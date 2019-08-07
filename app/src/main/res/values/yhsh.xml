@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyAnimView">
+        <attr name="paintColor" format="color" />
+        <attr name="paintText" format="string" />
+        <attr name="arcLeft" format="float" />
+        <attr name="arcTop" format="float" />
+        <attr name="arcRight" format="float" />
+        <attr name="arcBottom" format="float" />
+        <attr name="isCanvas" format="boolean" />
+    </declare-styleable>
+</resources>
