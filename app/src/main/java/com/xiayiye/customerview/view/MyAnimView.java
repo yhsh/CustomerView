@@ -110,6 +110,11 @@ public class MyAnimView extends View {
         }
     }
 
+    /**
+     * 设置跑马灯文字的方法
+     *
+     * @param text 返回文字
+     */
     public void setDrawText(String text) {
         paintText = text;
     }
